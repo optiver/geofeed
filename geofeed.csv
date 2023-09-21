@@ -1,0 +1,6 @@
+# Optiver Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 21-09-2023
+
+103.89.73.0/24,AU,AU-NSW,Sydney,
+103.179.116.0/24,SG,SG-02,Singapore,
